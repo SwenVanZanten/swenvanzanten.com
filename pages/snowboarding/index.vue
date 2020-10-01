@@ -7,7 +7,7 @@
             Snowboarding
           </h1>
           <h2 class="subtitle has-text-light">
-            To me, ulimate freedom
+            To me, the ultimate freedom experience
           </h2>
         </div>
       </div>
