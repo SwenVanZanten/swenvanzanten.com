@@ -43,7 +43,7 @@ export default {
         {
           name: 'Airsoft',
           path: '/airsoft',
-          enabled: true
+          enabled: false
         }
       ]
     }

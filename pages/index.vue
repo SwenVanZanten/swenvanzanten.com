@@ -25,12 +25,7 @@
                 <strong>80</strong>.
               </p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-                ac imperdiet odio. Sed eget elit eleifend, faucibus nisi
-                vulputate, accumsan urna. Vivamus porttitor porttitor ipsum, id
-                finibus urna. Fusce feugiat accumsan vehicula. Vestibulum sit
-                amet orci mi. Pellentesque posuere nulla posuere tellus
-                tincidunt placerat.
+                Sorry, soon more info...
               </p>
             </article>
           </div>
@@ -48,7 +43,7 @@
                   to="/snowboarding"
                   tag="nuxt-link"
                 />
-                <b-menu-item label="Airsoft" to="/airsoft" tag="nuxt-link" />
+                <!--<b-menu-item label="Airsoft" to="/airsoft" tag="nuxt-link" />-->
               </b-menu-list>
             </b-menu>
           </div>

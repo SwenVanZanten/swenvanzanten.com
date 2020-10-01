@@ -1,5 +1,5 @@
 <template>
-  <div class="has-text-light">
+  <div>
     <section class="hero is-medium is-bold developer-1">
       <div class="hero-body">
         <div class="container">
@@ -12,9 +12,9 @@
         </div>
       </div>
     </section>
-    <section class="section has-background-dark">
+    <section class="section">
       <div class="container">
-        Developer
+        Sorry, soon more info...
       </div>
     </section>
   </div>
