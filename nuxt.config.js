@@ -4,10 +4,6 @@ module.exports = {
   mode: 'spa',
   target: 'static',
 
-  generate: {
-    dir: 'docs'
-  },
-
   /*
    ** Headers of the page
    */

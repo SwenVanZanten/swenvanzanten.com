@@ -37,10 +37,18 @@
           <div class="column">
             <b-menu>
               <b-menu-list label="More specific">
-                <b-menu-item label="Developer" />
-                <b-menu-item label="Music" />
-                <b-menu-item label="Snowboarding" />
-                <b-menu-item label="Airsoft" />
+                <b-menu-item
+                  label="Developer"
+                  to="/developer"
+                  tag="nuxt-link"
+                />
+                <b-menu-item label="Music" to="/music" tag="nuxt-link" />
+                <b-menu-item
+                  label="Snowboarding"
+                  to="/snowboarding"
+                  tag="nuxt-link"
+                />
+                <b-menu-item label="Airsoft" to="/airsoft" tag="nuxt-link" />
               </b-menu-list>
             </b-menu>
           </div>
@@ -58,7 +66,7 @@ export default {
 
 <style scoped>
 .portret-1 {
-  background-image: url('/portret1.png');
+  background-image: url('/portret1.jpg');
   background-size: cover;
 }
 </style>

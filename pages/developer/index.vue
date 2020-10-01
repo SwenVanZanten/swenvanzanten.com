@@ -28,7 +28,7 @@ export default {
 
 <style scoped>
 .developer-1 {
-  background-image: url('/developer1.png');
+  background-image: url('/developer1.jpg');
   background-size: cover;
   background-position-y: 50%;
 }

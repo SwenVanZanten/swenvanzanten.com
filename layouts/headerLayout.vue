@@ -1,7 +1,7 @@
 <template>
   <b-navbar type="is-warning" spaced shadow>
     <template slot="brand">
-      <b-navbar-item :to="{ path: '/' }" tag="router-link">
+      <b-navbar-item :to="{ path: '/' }" tag="nuxt-link">
         <img src="~/assets/swenvanzanten.png" alt="Swen van Zanten" />
       </b-navbar-item>
     </template>
