@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{193:function(e,n,t){"use strict";t.r(n);var c={name:"DeveloperPage"},l=t(13),component=Object(l.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("section",{staticClass:"section"},[this._v("\n  Airsoft\n")])}),[],!1,null,null,null);n.default=component.exports}}]);

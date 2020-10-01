@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{196:function(n,e,t){"use strict";t.r(e);var o={name:"DeveloperPage"},c=t(13),component=Object(c.a)(o,(function(){var n=this.$createElement;return(this._self._c||n)("section",{staticClass:"section"},[this._v("\n  Snowboarding\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
