@@ -22,7 +22,7 @@
                 reached the placeholder response for
                 <strong>GET</strong> requests on
                 <strong>https://swenvanzanten.com</strong> over port
-                <strong>80</strong>.
+                <strong>443</strong>.
               </p>
               <p>
                 Sorry, soon more info...
